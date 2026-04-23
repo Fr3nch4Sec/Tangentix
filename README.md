@@ -1,4 +1,4 @@
-# 🚀 Tangentix  — Étude de Fonctions
+# 🚀 Tangentix  — Étude de Fonctions Mathématiques
 
 ## A python webapp for mathematics function study
 **Tangentix** est une application web interactive d'analyse mathématique, similaire à Symbolab. Elle permet de visualiser une fonction, sa tangente en un point, et d'obtenir une étude complète automatique en temps réel.
