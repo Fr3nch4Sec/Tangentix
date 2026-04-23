@@ -34,7 +34,7 @@ btn_style = {
 
 # --- Mise en page (Layout) ---
 app.layout = html.Div(style=dark_style, children=[
-    html.H1("🚀 Tangentix Pro", style={'textAlign': 'center', 'color': '#58a6ff', 'marginBottom': '30px'}),
+    html.H1("🚀 Tangentix ", style={'textAlign': 'center', 'color': '#58a6ff', 'marginBottom': '30px'}),
 
     # Conteneur de Saisie (Largeur 95%)
     html.Div([
